@@ -23,3 +23,9 @@ Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecn
 ## Atividade no GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurcavalcante&show_icons=true&theme=radical)
+
+## Linguagens usadas
+
+![Arthur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcavalcante&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
+
+
