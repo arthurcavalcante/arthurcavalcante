@@ -1,16 +1,13 @@
-## Hi there 👋
+# Perfil de Programador no GitHub
 
-<!--
-**arthurcavalcante/arthurcavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Apresentação
 
-Here are some ideas to get you started:
+Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens Dominantes
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,python,golang)](https://skillicons.dev)
+
+## Atividade no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurcavalcante&show_icons=true&theme=radical)
