@@ -6,7 +6,7 @@ Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecn
 
 ## Linguagens Dominantes
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,python,golang,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,python,golang,C#)](https://skillicons.dev)
 
 ## Atividade no GitHub
 
