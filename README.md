@@ -1,6 +1,6 @@
 ## Apresentação
 
-Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo!
+Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo! Atualizações de códigos em breve :)
 
 ## Linguagens Dominantes 
 
