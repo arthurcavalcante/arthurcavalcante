@@ -1,6 +1,6 @@
 ## Apresentação
 
-Olá! Eu sou *Arthur Cavalcante*, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo! Atualizações de códigos em breve :)
+Olá! Eu sou **Arthur Cavalcante**, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo! Atualizações de códigos em breve :)
 
 ## Linguagens Dominantes 
 
@@ -22,7 +22,7 @@ Olá! Eu sou *Arthur Cavalcante*, um desenvolvedor de software apaixonado por te
 
 ## Atividade no GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurcavalcante&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Linguagens usadas
 
