@@ -8,11 +8,11 @@ Olá! Eu sou *Arthur Cavalcante*, um desenvolvedor de software apaixonado por te
 
 ## Api's frontend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vuejs,&theme=light)](https://skillicons.dev)
 
 ## Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=blender,visualstudio,sublime,webstorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,visualstudio,sublime,figma,pycharm,webstorm&theme=light)](https://skillicons.dev)
 
 ## Banco de dados.
 
