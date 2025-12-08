@@ -12,7 +12,7 @@ Olá! Eu sou Arthur Cavalcante, um desenvolvedor de software apaixonado por tecn
 
 ## Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=blender,visualstudiocode,sublime,webstorm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,visualstudio,sublime,webstorm&theme=light)](https://skillicons.dev)
 
 ## Banco de dados.
 
