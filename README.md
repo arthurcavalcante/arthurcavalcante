@@ -1,6 +1,14 @@
 ## Apresentação
 
-Olá! Eu sou **Arthur Cavalcante**, um desenvolvedor de software apaixonado por tecnologia e inovação. No meu GitHub, compartilho projetos pessoais, contribuições open-source e experimentos com novas tecnologias. Sinta-se à vontade para explorar meus repositórios e colaborar comigo! Atualizações de códigos em breve :)
+Olá, meu nome é **Arthur Cavalcante**, formado no Instituto Federal de Brasília - IFB, Ensino Médio com Curso Técnico em Informática. Atualmente cursando faculdade de Ciências daComputação no Ceub (Sétimo semestre).
+Membro dos escoteiros do Brasil (GEJA 110 DF - Pioneiro).
+
+--=--
+
+Desenvolvedor FullStack!
+Back-End: C++ / Go / Python / JavaScript
+Front-End: JavaScript / Css / Html
+Banco De dados: JSON / SQL
 
 ## Linguagens Dominantes 
 
