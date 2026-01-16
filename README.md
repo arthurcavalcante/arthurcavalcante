@@ -6,9 +6,9 @@ Membro dos escoteiros do Brasil (GEJA 110 DF - Pioneiro).
 --=--
 
 Desenvolvedor FullStack!
-Back-End: C++ / Go / Python / JavaScript
-Front-End: JavaScript / Css / Html
-Banco De dados: JSON / SQL
+Back-End: C++ / Go / Python / JavaScript.
+Front-End: JavaScript / Css / Html.
+Banco De dados: JSON / SQL.
 
 ## Linguagens Dominantes 
 
