@@ -10,6 +10,11 @@ Back-End: C++ / Go / Python / JavaScript / Java / Lua / Ruby / C#.
 Front-End: JavaScript / Css / Html.
 Banco De dados: JSON / SQL.
 
+--=--
+Links!
+Linkedin - https://www.linkedin.com/in/arthur-cavalcante-neves/
+Instagram - ( Em atualização )
+
 ## Linguagens Dominantes 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,golang,cs,lua,cpp,java)](https://skillicons.dev)
