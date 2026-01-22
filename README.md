@@ -1,6 +1,6 @@
 ## Apresentação
 
-Olá, meu nome é **Arthur Cavalcante**, formado no Instituto Federal de Brasília - IFB, Ensino Médio com Curso Técnico em Informática. Atualmente cursando faculdade de Ciências daComputação no Ceub (Sétimo semestre).
+Olá, meu nome é **Arthur Cavalcante**, formado no Instituto Federal de Brasília - IFB, Ensino Médio com Curso Técnico em Informática. Atualmente cursando faculdade de ciência da computação no CEUB (Sétimo semestre).
 Membro dos escoteiros do Brasil (GEAC 40DF - Pioneiro).
 
 --=--
