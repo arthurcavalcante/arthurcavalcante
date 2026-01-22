@@ -6,15 +6,14 @@ Membro dos escoteiros do Brasil (GEAC 40DF - Pioneiro).
 --=--
 
 Desenvolvedor FullStack!
-Back-End: C++ / Go / Python / JavaScript / Java / Lua / Ruby / C#.
-Front-End: JavaScript / Css / Html.
+Back-End: Go / Python / JavaScript / Java
+Front-End + VueJS
 Banco De dados: JSON / SQL.
 
 --=--
 
 Links!
 Linkedin - https://www.linkedin.com/in/arthur-cavalcante-neves/
-Instagram - ( Em atualização )
 
 ## Linguagens Dominantes 
 
