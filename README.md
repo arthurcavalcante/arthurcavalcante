@@ -17,7 +17,7 @@ Linkedin - https://www.linkedin.com/in/arthur-cavalcante-neves/
 
 ## Linguagens Dominantes 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,golang,cs,lua,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,golang,java)](https://skillicons.dev)
 
 ## Api's frontend
 
