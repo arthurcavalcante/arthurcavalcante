@@ -3,17 +3,16 @@
 Olá, meu nome é **Arthur Cavalcante**, formado no Instituto Federal de Brasília - IFB, Ensino Médio com Curso Técnico em Informática. Atualmente cursando faculdade de ciência da computação no CEUB (Sétimo semestre).
 Membro dos escoteiros do Brasil (GEAC 40 DF - Pioneiro)
 
---=--
+## Conhecimentos
 
 Desenvolvedor FullStack
 Back-End: Go / Python / JavaScript / Java
 Front-End + VueJS
 Banco De dados: JSON / SQL / NoSQL
 
---=--
+## Redes sociais
 
-Links
-Linkedin - https://www.linkedin.com/in/arthur-cavalcante-neves/
+Aqui você poderar acessar o meu [Linkedin](https://www.linkedin.com/in/arthur-cavalcante-neves/)
 
 ## Linguagens Dominantes 
 
