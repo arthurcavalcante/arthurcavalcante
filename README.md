@@ -54,7 +54,7 @@ Minha experiência e meus estudos envolvem desenvolvimento de aplicações web, 
 ## 🎓 Formação
 
 **Ciência da Computação — CEUB**  
-7º semestre • Em andamento
+8º semestre • Finalizando
 
 **Técnico em Informática — Instituto Federal de Brasília (IFB)**  
 Ensino Médio integrado ao Curso Técnico em Informática
