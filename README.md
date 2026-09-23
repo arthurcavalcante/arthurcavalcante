@@ -1,4 +1,4 @@
-# Olá, eu sou Arthur Cavalcante 👋
+# Olá, eu sou Arthur! 👋
 
 ### Desenvolvedor Full Stack | Backend & IA | Ciência da Computação
 
