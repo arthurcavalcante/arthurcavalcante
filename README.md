@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Backend & IA | Ciência da Computação
 
-Sou estudante de **Ciência da Computação no CEUB**, atualmente no 7º semestre, e formado pelo **Instituto Federal de Brasília (IFB)** no Ensino Médio integrado ao **Curso Técnico em Informática**.
+Sou estudante de **Ciência da Computação no CEUB**, atualmente no 8º semestre, e formado pelo **Instituto Federal de Brasília (IFB)** no Ensino Médio integrado ao **Curso Técnico em Informática**.
 
 Tenho foco em **desenvolvimento Full Stack, Backend e Inteligência Artificial**, buscando construir aplicações bem estruturadas, eficientes e voltadas à resolução de problemas reais.
 
