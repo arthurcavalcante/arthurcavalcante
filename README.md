@@ -131,16 +131,6 @@ Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arq
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurcavalcante&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 🎓 Formação Acadêmica
 
 ### 🎓 Ciência da Computação
