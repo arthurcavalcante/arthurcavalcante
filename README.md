@@ -9,11 +9,8 @@ Desenvolvendo soluções com foco em **Backend, aplicações Web, Engenharia de 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Cavalcante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cavalcante-neves/)
-[![GitHub](https://img.shields.io/badge/GitHub-arthurcavalcante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurcavalcante)
 
 </div>
-
----
 
 ## 👨‍💻 Sobre mim
 
@@ -24,8 +21,6 @@ Tenho interesse e experiência em **desenvolvimento Full Stack e Backend**, cons
 Minha trajetória também envolve experiência prática com **suporte técnico, infraestrutura, redes e desenvolvimento de scripts para otimização de rotinas e processos internos**.
 
 Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arquitetura de sistemas, Backend e Inteligência Artificial**, aplicando esses conceitos em projetos pessoais e acadêmicos.
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -85,8 +80,6 @@ Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arq
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
 ## 🎯 Áreas de Interesse
 
 - 💻 Desenvolvimento Full Stack
@@ -98,8 +91,6 @@ Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arq
 - 🗄️ Bancos de Dados
 - ⚡ Automação de processos
 
----
-
 ## 🚀 Atualmente
 
 - 🎓 Finalizando a graduação em **Ciência da Computação**
@@ -108,8 +99,6 @@ Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arq
 - 🏗️ Estudando **arquitetura e boas práticas de software**
 - 🤖 Explorando aplicações de **Inteligência Artificial**
 - 🔎 Buscando oportunidades para aplicar conhecimentos em projetos e problemas reais
-
----
 
 # 📊 GitHub Stats
 
@@ -129,7 +118,6 @@ Atualmente, busco aprofundar meus conhecimentos em **Engenharia de Software, arq
 
 </div>
 
----
 
 ## 🎓 Formação Acadêmica
 
@@ -149,8 +137,6 @@ Bacharelado em Ciência da Computação com foco em desenvolvimento de software,
 
 Ensino Médio integrado ao Curso Técnico em Informática, com formação em programação, redes, hardware, eletrônica e projetos de tecnologia.
 
----
-
 ## 🏅 Certificações & Atividades
 
 ![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
@@ -161,12 +147,6 @@ Ensino Médio integrado ao Curso Técnico em Informática, com formação em pro
 
 **Oficina Lógica com Arduino — STEAM TechCamp DF / IFB**
 
-🚀 **Programa Miniempresa — Junior Achievement Distrito Federal**
-
-🌎 **JOTAJOTI 2022 — Escoteiros do Brasil**
-
----
-
 ## 🤝 Contato
 
 Interessado em desenvolvimento de software, projetos colaborativos e oportunidades envolvendo **Backend, Full Stack, Engenharia de Software e Inteligência Artificial**.
@@ -174,8 +154,6 @@ Interessado em desenvolvimento de software, projetos colaborativos e oportunidad
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Cavalcante-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cavalcante-neves/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-arthurcavalcante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurcavalcante)
 
 <br>
 
